@@ -1,0 +1,20 @@
+/**************************************************
+     Colégio Estadual Gabriel de Lara - 11/03/2026
+     Autor: Kiel Grobe de Miranda, 25.
+     
+     Objetivo: Estudar as ligações de circuito para
+     acionar LEDs.
+
+*/
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
