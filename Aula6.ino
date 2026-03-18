@@ -1,5 +1,5 @@
 /***************************************************
-AULA 5 - Funções com LEDs por botão - 18/03/2026
+AULA 6 - Funções com LEDs por botão - 18/03/2026
 
 Autor: Kiel Grobe de Miranda
 
