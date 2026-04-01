@@ -1,14 +1,3 @@
-#include <LiquidCrystal_I2C.h>
-
-#include <LiquidCrystal_I2C.h>
-
-#include <LiquidCrystal_I2C.h>
-
-#include <LiquidCrystal_I2C.h>
-
-#include <LiquidCrystal_I2C.h>
-
-#include <LiquidCrystal.h>
 
 /************************************************************/
 /* Aula 08 - Painel de Senhas com display LCD 16x2 I2C      */
