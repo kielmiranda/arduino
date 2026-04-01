@@ -1,6 +1,6 @@
 
 /************************************************************/
-/* Aula 08 - Painel de Senhas com display LCD 16x2 I2C      */
+/* Aula 07 - Painel de Senhas com display LCD 16x2 I2C      */
 /************************************************************/
 
 /* Carrega as bibliotecas necessárias                       */
