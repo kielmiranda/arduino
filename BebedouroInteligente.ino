@@ -1,5 +1,6 @@
 /*
  * PROJETO: BEBEDOURO INTELIGENTE ACESSÍVEL
+ * AUTORES: Kiel Grobe de Miranda 25; Renan 34
  * OBJETIVO: Acionar válvula solenoide automaticamente via sensor de proximidade.
  * LÓGICA: Se distância < LIMITE (10 cm), relé é ATIVADO (água liberada).
  *         Caso contrário, relé DESATIVADO.
